@@ -1,0 +1,81 @@
+{
+  "preguntes": [
+    {
+      "id": "01",
+      "types_id": ["01", "02", "03"],
+      "question": "Como se llama este futbolista ?",
+      "img": "img/imagen_1.jpg",
+      "resposta": [
+        {
+          "id": "01",
+          "text": "Messi",
+          "right": "true"
+        },
+
+        {
+          "id": "02",
+          "text": "CR7",
+          "right": "false"
+        },
+
+        {
+          "id": "03",
+          "text": "Pogba",
+          "right": "false"
+        }
+      ]
+    },
+
+    {
+      "id": "02",
+      "types_id": ["04", "05", "06"],
+      "question": "Como se llama este País",
+      "img": "img/imagen_2.jpg",
+      "resposta": [
+        {
+          "id": "01",
+          "text": "Brasil",
+          "right": "true"
+        },
+
+        {
+          "id": "02",
+          "text": "Perú",
+          "right": "false"
+        },
+
+        {
+          "id": "03",
+          "text": "Colombia",
+          "right": "false"
+        }
+      ]
+    },
+
+    {
+      "id": "03",
+      "types_id": ["07", "08", "09"],
+      "question": "Donde se ecuentra esta estructura ?",
+      "img": "img/imagen_3.jpg",
+      "resposta": [
+        {
+          "id": "01",
+          "text": "Paris",
+          "right": "true"
+        },
+
+        {
+          "id": "02",
+          "text": "Roma",
+          "right": "false"
+        },
+
+        {
+          "id": "03",
+          "text": "España",
+          "right": "false"
+        }
+      ]
+    }
+  ]
+}
